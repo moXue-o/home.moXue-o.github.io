@@ -1,24 +1,68 @@
-# Personal Home Page
+# 个人主页
 
-Welcome to my personal home page! This is my space to showcase myself.
+欢迎来到我的个人主页！这是我展示自己、分享经历和成就的专属空间。
 
-## About Me
+## 关于我
 
-I'm a developer passionate about coding and exploring new technologies. I enjoy solving interesting problems and building great projects.
+我是一名充满热情的全栈开发者，致力于编程、学习新技术和构建创新项目。我具有强烈的求知欲和持续学习的动力，在解决复杂问题和优化代码质量方面有着丰富的经验。无论是前端界面设计还是后端逻辑实现，我都能够胜任，并且在团队协作中表现出色。
 
-## Tech Stack
+我相信好的代码不仅是功能的实现，更是艺术的表达。我致力于编写清晰、可维护且高效的代码，同时也非常关注用户体验和产品质量。
 
-- Python
-- JavaScript
-- HTML/CSS
-- TypeScript
-- React
-- Node.js
+## 技术栈
 
-## Projects
+### 前端技术
+- **框架与库**：React、Vue、Angular
+- **语言**：JavaScript、TypeScript、HTML5、CSS3
+- **工具与库**：Webpack、Vite、Redux、Axios
 
-Here you can view my latest projects and contributions on GitHub.
+### 后端技术
+- **语言**：Python、JavaScript/Node.js、Java
+- **框架**：Express.js、Django、Flask、Spring Boot
+- **数据库**：MySQL、MongoDB、PostgreSQL、Redis
 
-## Contact
+### 开发工具与平台
+- **版本控制**：Git、GitHub
+- **开发环境**：VS Code、Docker、Linux
+- **CI/CD**：GitHub Actions、Jenkins
 
-If you're interested in my projects or have any questions, feel free to contact me through GitHub.
+## 项目经历
+
+我在GitHub上拥有多个项目作品，涵盖以下几个方向：
+
+- **Web应用开发**：使用React和Node.js构建的全栈Web应用
+- **前端组件库**：可复用的高质量UI组件库
+- **工具类项目**：提升开发效率的实用工具
+- **开源贡献**：参与并贡献于各类开源项目
+
+每个项目都承载着我的学习成果和创新思维，欢迎查看详细介绍和源代码。
+
+## 核心竞争力
+
+- ✨ **扎实的编程基础**：对数据结构、算法和设计模式有深入理解
+- 🚀 **全栈开发能力**：能够独立完成从需求分析到部署上线的全过程
+- 🤝 **良好的团队协作**：具有清晰的沟通能力和高效的团队意识
+- 📚 **持续学习精神**：积极跟进新技术趋势，不断提升自我
+- 🎯 **项目管理意识**：注重代码质量、文档完善和用户反馈
+
+## 工作方式
+
+我遵循敏捷开发方法论，注重：
+- 代码质量和最佳实践
+- 充分的项目文档和注释
+- 定期的代码审查和性能优化
+- 用户反馈的收集和持续迭代
+
+## 联系方式
+
+我很乐意与有趣的人合作或讨论技术话题！如果你对我的项目感兴趣、想要合作或有任何问题和建议，欢迎通过以下方式与我联系：
+
+- 📧 **GitHub**：访问我的 [GitHub 个人主页](https://github.com/moXue-o) 查看所有项目和代码
+- 💬 **Issue & Discussion**：在项目中提出问题或参与讨论
+- 🔗 **其他联系**：通过GitHub的个人资料获取更多联系方式
+
+期待与你的交流与合作！
+
+---
+
+**更新时间**：2026年6月  
+**最后维护**：持续更新中...
